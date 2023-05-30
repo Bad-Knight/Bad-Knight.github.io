@@ -1,0 +1,80 @@
+.button {
+  background-color: #00008B;
+  border: none;
+  color: white;
+  padding: 16px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  border-radius: 24px;
+  padding: 20px 20px;
+  background-color: #ffaa5e;
+}
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 16px;
+  display: block;
+}
+html {
+  font-family: 'Nunito', sans-serif;
+  color: #ffecd6;
+  background-color: #0d2b45;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+hr {
+  background-color: rgb(30,30,30);
+  border-color: transparent;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 50%;
+  height: 2px;
+}
+footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #d08159;
+}
+
+input {
+	height: 1.2rem;
+	outline: none;
+}
+.button2 {
+  background-color: #544e68;
+  border: none;
+  color: white;
+  padding: 16px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  border-radius: 24px;
+  padding: 20px 20px;
+  background-color: #8d697a;
+}
